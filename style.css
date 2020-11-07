@@ -163,6 +163,11 @@ body {
   background-image: url("img/icon-css.svg");
 }
 
+.light-theme .skill-js {
+  background-image: url("img/javascript.svg");
+  background-size: 20px;
+}
+
 .light-theme .level {
   margin: 4px 0 16px;
   padding: 0;
@@ -399,6 +404,11 @@ body {
 
 .dark-theme .skill-css {
   background-image: url("img/icon-css.svg");
+}
+
+.dark-theme .skill-js {
+  background-image: url("img/javascript.svg");
+  background-size: 20px;
 }
 
 .dark-theme .level {
